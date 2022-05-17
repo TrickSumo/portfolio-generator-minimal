@@ -23,7 +23,7 @@ Function URL Config=>
 * Allow headers: content-type
 * Allowed Methods: GET, POST
 ```
-3. Updae function URLs in .env file
+3. Update function URLs in .env file
 
 4. Create S3 bucket and use OAI + Cloudfront to make it publicaly available. Also update bucket name and cloudfront distribution id in lambda functions
 

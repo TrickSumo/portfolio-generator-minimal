@@ -25,7 +25,7 @@ Function URL Config=>
 ```
 3. Updae function URLs in .env file
 
-4. Create S3 bucket and use OAI + Cloudfront to make it publicaly available. Also update bucket name in lambda functions
+4. Create S3 bucket and use OAI + Cloudfront to make it publicaly available. Also update bucket name and cloudfront distribution id in lambda functions
 
 5. Install REACT dependecies and run
 
